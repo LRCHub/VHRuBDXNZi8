@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "ハートの魔法",
+  "base_artist": "SWEET STEADY",
+  "createdAt": "2026-04-02T05:40:35.254762Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "ハートの魔法",
+      "artist": "SWEET STEADY",
+      "has_synced": false,
+      "path": "select/pl_01_ハートの魔法_SWEET_STEADY.txt"
+    }
+  ]
+}
